@@ -12,7 +12,7 @@ public class Initialize {
 	public Initialize() {
 		start=new Interface();
 		data=new PrepareMetadata();
-		search("query1");
+		search("query3");
 	}
 
 	void search(String filename)
